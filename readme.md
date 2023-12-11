@@ -7,3 +7,6 @@ This tutorial focuses mainly on git and using github as its remote.
 This repository is built step by step in the tutorial.
 
 It now includes steps for github
+
+and this branch is used to demonstrate pushing a branch
+which should be easy.
